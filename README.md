@@ -1,4 +1,4 @@
-# 🛡️ Genlayer Validator Failover
+# 🛡️ Genlayer Validator PK
 
 **Infrastructure Best Practice Guide**
 
